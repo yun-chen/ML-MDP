@@ -1,0 +1,1 @@
+javac -classpath .\lib\burlap-3.0.1-jar-with-dependencies.jar src\edu\gt\ml\proj4\*.java -d .\classes
